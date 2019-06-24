@@ -1,0 +1,10 @@
+[team]
+    Name = "Team"
+    Title = "Team"
+    URL = "/team"
+    weight = 1
+
+[project]
+    Name = "project"
+    URL = "/project"
+    weight = 2
